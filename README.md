@@ -6,5 +6,7 @@ This Tkinter window is accessed by Login id and password and then We can add our
 and the progran save the credential in a notepad file with an encryption. 
 For viewing the data , we have to Go to Directory Window. 
 More Details About the program are Defined in the i-button at the login and Main window too. 
+
+If you have ideas to add to the program then please share them with me. 
   Created By - Chirag Pandey 
   
